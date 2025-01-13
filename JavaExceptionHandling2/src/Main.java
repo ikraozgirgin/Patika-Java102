@@ -10,7 +10,7 @@ public class Main {
 		
 		try {
 			long result = myCalculator.power(n, p);
-            System.out.println(result);
+            		System.out.println(result);
 		} catch (Exception e) {
 			System.out.println(e.toString());
 		}finally {
