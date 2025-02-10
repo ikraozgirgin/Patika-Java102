@@ -1,1 +1,1 @@
-Patika'daki JAVA_102 kursunu takip ederken yazdıklarım ve ödevler.
+Patika'daki JAVA_102 kursuna devam ederken yazdıklarım ve ödevler.
