@@ -4,7 +4,6 @@ package threadingDemo;
 public class KronometreThread extends Thread {
 	
 	private String name;
-	private Thread thread;
  
 	public KronometreThread(String name) {
 		this.name = name;
